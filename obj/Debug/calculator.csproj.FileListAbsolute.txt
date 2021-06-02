@@ -1,0 +1,18 @@
+C:\Users\Durmaz  TEKELI\source\repos\calculator\bin\Debug\calculator.exe.config
+C:\Users\Durmaz  TEKELI\source\repos\calculator\bin\Debug\calculator.exe
+C:\Users\Durmaz  TEKELI\source\repos\calculator\bin\Debug\calculator.pdb
+C:\Users\Durmaz  TEKELI\source\repos\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Durmaz  TEKELI\source\repos\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Durmaz  TEKELI\source\repos\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Durmaz  TEKELI\source\repos\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Durmaz  TEKELI\source\repos\calculator\obj\Debug\calculator.exe
+C:\Users\Durmaz  TEKELI\source\repos\calculator\obj\Debug\calculator.pdb
+C:\Users\MONSTER\Desktop\ÖDEVLER\C#\calculator\bin\Debug\calculator.exe.config
+C:\Users\MONSTER\Desktop\ÖDEVLER\C#\calculator\bin\Debug\calculator.exe
+C:\Users\MONSTER\Desktop\ÖDEVLER\C#\calculator\bin\Debug\calculator.pdb
+C:\Users\MONSTER\Desktop\ÖDEVLER\C#\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\MONSTER\Desktop\ÖDEVLER\C#\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\MONSTER\Desktop\ÖDEVLER\C#\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\ÖDEVLER\C#\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\ÖDEVLER\C#\calculator\obj\Debug\calculator.exe
+C:\Users\MONSTER\Desktop\ÖDEVLER\C#\calculator\obj\Debug\calculator.pdb
